@@ -10,7 +10,7 @@
  <a href="#"><img title="Created By Cocopie" src="https://img.shields.io/badge/©Cocopie-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/iCocopie"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/iCocopie"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Cocopie-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
