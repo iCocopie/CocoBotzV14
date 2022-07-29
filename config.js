@@ -1,5 +1,6 @@
 // S C R I P T  O R I  B Y  @BochilGaming 🔭
 // M A D E  B Y  Letta - Sama 🐰  
+// R E C O D E  B Y  @Cocopie 🎐
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -8,6 +9,7 @@
 // • Bochilgaming
 // • Rominaru
 // • Kannachann
+// • Cocopie
 // • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
@@ -44,33 +46,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = 'https://www.instagram.com/raakanrzkiii_'
+global.sgh = 'https://github.com/iCocopie'
+global.sgc = 'https://chat.whatsapp.com/HJzf8CNphXrEtJaTpNY692'
 global.sdc = " "
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = 'https://www.instagram.com/raakanrzkiii_'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
-global.psaweria = '-'
+global.pdana = '08992029499'
+global.povo = '08992029499'
+global.pgopay = '08992029499'
+global.ppulsa = '08992029499'
+global.ppulsa2 = '08992029499'
+global.psaweria = '08992029499'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '62895354437300'
+global.nomorown = '628992029499'
+global.namebot = 'CocoBot'
+global.nameown = 'Cocopie'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
-  ['18126338970'],
-  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['628992029499'],
+  ['628992029499'],
+  ['628992029499'],
+  ['628992029499', 'Cocopie', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,10 +117,10 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
-global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
+global.wm = '「 ©Cocopie 」' //Main Watermark
+global.wm2 = '©Cocopie'
+global.wm3 = '⫹⫺ Cocopie 𝗕𝗢𝗧'
+global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲 : ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
 global.author = global.wm
@@ -134,7 +136,7 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 
 /*============== TEXT ==============*/
 global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
-global.eror = '```404 error```'
+global.eror = '```404 Error```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
